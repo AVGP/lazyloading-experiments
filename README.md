@@ -1,6 +1,6 @@
 # lazyloading-experiments
 
-* [echo.js](lazyloading-experiments/echo)
+* [echo.js](lazyloading-experiments/echo/)
 * [lazyr](lazyr/)
 * [lazyload](lazyload/)
 * [lazysizes](lazysizes/)
