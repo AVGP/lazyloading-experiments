@@ -11,4 +11,4 @@
 
 * IntersectionObserver
   * [without polyfill](intersection-observer/)
-  * [without polyfill](intersection-observer/polyfilled.html)
+  * [with polyfill](intersection-observer/polyfilled.html)
